@@ -32,7 +32,7 @@ Built with ❤️ for music enthusiasts and creators, it allows you to transform
    - Paste a **YouTube URL** for direct processing.  
 
 3. **Pitch Control**  
-   - **Pitch Change (Vocals ONLY):** Adjust pitch for male ↔ female conversions (`+1` / `-1`).  
+   - **Pitch Change (Vocals ONLY):** Adjust pitch for male ↔ female conversions (`+1/24` / `-1/24`).  
    - **Overall Pitch Change:** Shift pitch/key of both vocals & instrumentals (semitones).  
 
 4. **Voice Conversion Options**  
@@ -57,3 +57,4 @@ Built with ❤️ for music enthusiasts and creators, it allows you to transform
 | **Generate & Download**   | Create your AI cover and download the result as an audio file.               |
 
 👉 This is just a fork of [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen), playing around with some changes and improvements.
+
